@@ -1,4 +1,5 @@
-https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif
+
+![giphy](https://github.com/Rosten1805/Rosten1805/assets/123247001/dafd93f8-85dc-4159-9b56-4f35d2958302)
 
 Sobre mi:
 
