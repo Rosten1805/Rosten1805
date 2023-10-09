@@ -4,10 +4,9 @@
 Sobre mi:
 
 Siempre me ha apasionado la informática, por eso desarrollo aplicaciones web.
-Soy responsable, trabajadora y autodidacta. Me apasiona el diseño gráfico, el diseño de interfaces de usuario así como la maquetación, el desarrollo de software, la programación y las nuevas tecnologías. Intentando mejorar cada día mi agilidad para programar.
+Soy responsable, trabajadora y autodidacta. Me apasiona el diseño gráfico, el diseño de interfaces de usuario así como la maquetación, el desarrollo de software, la programación y las nuevas tecnologías. 
+Intentando mejorar cada día mi agilidad para programar.
 
-⚙️💻 Filosofía de trabajo
+https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 
-Mis puntos fuertes son la organización, el trabajo en equipo, comprometida con la calidad del producto, el diseño y desarrollo y la creatividad aplicada a distintas situaciones y ámbitos. Disfruto con los retos y estoy aprendiendo continuamente porque me apasiona.
 
-Me enfoco en los resultados empleando metodologías efectivas y siendo práctica desde la fase de análisis y requisitos, atendiendo a los procesos clave de comunicación y desarrollo para conseguir superar objetivos conforme a las especificaciones y necesidades establecidas.
