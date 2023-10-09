@@ -1,5 +1,6 @@
 
-![giphy](https://github.com/Rosten1805/Rosten1805/assets/123247001/dafd93f8-85dc-4159-9b56-4f35d2958302)
+![anime-animecomputer](https://github.com/Rosten1805/Rosten1805/assets/123247001/896b3394-b6d5-4fb1-a3b2-691b3f873765)
+
 
 Sobre mi:
 
