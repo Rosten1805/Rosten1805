@@ -4,6 +4,7 @@
 Sobre mi:
 
 ⬇️⬇️⬇️
+
 ⚙️💻 
 
 Siempre me ha apasionado la informática, por eso desarrollo aplicaciones web.
