@@ -4,7 +4,8 @@
 Sobre mi:
 
 Siempre me ha apasionado la informática, por eso desarrollo aplicaciones web.
-Soy responsable, trabajadora y autodidacta. Me apasiona el diseño gráfico, el diseño de interfaces de usuario así como la maquetación, el desarrollo de software, la programación y las nuevas tecnologías. 
+Aprendí Basic con mi primer ordenador, un Amstrad CPC 464.
+Me apasiona el diseño gráfico, el diseño de interfaces de usuario así como la maquetación, el desarrollo de software, la programación y las nuevas tecnologías. 
 Intentando mejorar cada día mi agilidad para programar.
 
 
