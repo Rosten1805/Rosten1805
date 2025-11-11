@@ -8,5 +8,5 @@ Sobre mi:
 
 ⚙️💻 
 
-Apasionada de la programación pura y dura. Comencé a programar en Basic con mi primer ordenador, un Amstrad CPC y a día de hoy quiero continuar mi formación con esta rama de la informática. 
+Apasionada de la programación pura y dura. Comencé a programar en Basic con mi primer ordenador, un Amstrad CPC y  a día de hoy quiero continuar mi formación con esta rama de la informática. 
 
