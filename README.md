@@ -66,18 +66,20 @@ Infraestructura como código (IaC) provisionada en **AWS** mediante **Terraform*
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rosten1805&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF9900&icon_color=FF9900&text_color=FFFFFF&count_private=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosten1805&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF9900&text_color=FFFFFF" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats-eta-nine.vercel.app/api?username=Rosten1805&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF9900&icon_color=FF9900&text_color=FFFFFF&count_private=true" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats-eta-nine.vercel.app/api/top-langs/?username=Rosten1805&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF9900&text_color=FFFFFF" alt="Top languages"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rosten1805&hide_border=true&background=0D1117&ring=FF9900&fire=FF9900&currStreakLabel=FF9900" alt="GitHub streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rosten1805&hide_border=true&background=0D1117&ring=FF9900&fire=FF9900&currStreakLabel=FF9900&sideLabels=FF9900&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9F9F9F&excludeDaysLabels=FF9900" alt="GitHub streak"/>
 
 <br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Rosten1805&theme=onedark&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub trophies"/>
 
 </div>
+
+> ⚠️ El servicio oficial de `github-readme-stats.vercel.app` y los trofeos (`github-profile-trophy.vercel.app`) están caídos ahora mismo por cuota de Vercel (confirmado al comprobar sus respuestas HTTP). Las tarjetas de stats usan un mirror comunitario que sí responde; si ves la tarjeta de trofeos rota, es ese servicio puntualmente caído — puedes quitar esa línea o volver a probarla más tarde. La solución permanente es generar las tarjetas como SVG estático con una GitHub Action en tu propio repo (te lo monto en cuanto subamos esto a GitHub).
 
 <br/>
 
@@ -95,3 +97,4 @@ Infraestructura como código (IaC) provisionada en **AWS** mediante **Terraform*
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,100:0F2027&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
+
