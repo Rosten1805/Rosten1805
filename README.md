@@ -26,6 +26,7 @@ Soy **Cloud Engineer** especializada en **AWS** y **DevOps**: diseño, automatiz
 - 📦 Contenedores: **Docker**, Docker Compose y fundamentos de **Kubernetes**
 - 📊 Observabilidad con CloudWatch, Prometheus, Grafana y Loki
 - 🔐 Seguridad por defecto: mínimo privilegio y gestión de secretos
+- 🚀 Disponible para nuevas oportunidades
 
 <br/>
 
@@ -96,4 +97,3 @@ Infraestructura como código (IaC) provisionada en **AWS** mediante **Terraform*
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,100:0F2027&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
-
