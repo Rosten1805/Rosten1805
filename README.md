@@ -1,12 +1,97 @@
+<div align="center">
 
-![anime-animecomputer](https://github.com/Rosten1805/Rosten1805/assets/123247001/896b3394-b6d5-4fb1-a3b2-691b3f873765)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:FF9900&height=250&section=header&text=Cristina%20Ca%C3%B1adas%20G%C3%B3mez-Lim%C3%B3n&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Cloud%20Engineer%20%C2%B7%20AWS%20%26%20DevOps&descAlignY=55&descSize=18&descColor=FF9900" width="100%" alt="banner"/>
 
+<br/>
 
-Sobre mi:
+<a href="https://cristinagomez-limon.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-cristinagomez--limon.com-FF9900?style=for-the-badge&labelColor=0D1117" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/cristina-gomez-limon/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<img src="https://img.shields.io/badge/📍_Alicante,_España-0D1117?style=for-the-badge&labelColor=FF9900&color=0D1117" alt="Location"/>
 
-⬇️⬇️⬇️
+<br/><br/>
 
-⚙️💻 
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF9900&center=true&vCenter=true&width=720&lines=Infraestructura+cloud+fiable+y+automatizada.;Arquitectura+AWS+%E2%80%A2+Terraform+%E2%80%A2+CI%2FCD;Despliegues+automatizados%2C+sin+downtime." alt="Typing SVG"/>
 
-Apasionada de la programación pura y dura. Comencé a programar en Basic con mi primer ordenador, un Amstrad CPC y  a día de hoy quiero continuar mi formación con esta rama de la informática. 
+</div>
 
+<br/>
+
+## 👩🏻‍💻 Sobre mí
+
+Soy **Cloud Engineer** especializada en **AWS** y **DevOps**: diseño, automatizo y opero infraestructura cloud fiable, con base en desarrollo de producto real.
+
+- 🏗️ Diseño arquitecturas en AWS — `EC2` · `VPC` · `IAM` · `S3` · `Route 53` · `CloudWatch`
+- ⚙️ Infraestructura como código con **Terraform** (módulos, state, outputs)
+- 🔁 Pipelines **CI/CD** reproducibles con **GitHub Actions**
+- 📦 Contenedores: **Docker**, Docker Compose y fundamentos de **Kubernetes**
+- 📊 Observabilidad con CloudWatch, Prometheus, Grafana y Loki
+- 🔐 Seguridad por defecto: mínimo privilegio y gestión de secretos
+- 🚀 Disponible para nuevas oportunidades
+
+<br/>
+
+## 🛠️ Stack & herramientas
+
+<div align="center">
+
+**☁️ Cloud & Infraestructura**
+
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes&theme=dark" alt="cloud stack"/>
+
+**⚙️ CI/CD, Control de versiones & Scripting**
+
+<img src="https://skillicons.dev/icons?i=githubactions,git,github,bash,linux&theme=dark" alt="devops stack"/>
+
+**📊 Observabilidad & Datos**
+
+<img src="https://skillicons.dev/icons?i=grafana,prometheus,postgres&theme=dark" alt="data stack"/>
+
+</div>
+
+<br/>
+
+## 🚀 Proyecto destacado
+
+### 🔗 Pipeline CI/CD de Terraform con GitHub Actions y AWS
+
+Infraestructura como código (IaC) provisionada en **AWS** mediante **Terraform**, con backend remoto en **Amazon S3** y un pipeline **CI/CD** automatizado vía **GitHub Actions**: cada cambio en `main` inicializa Terraform, valida el formato y aplica la infraestructura automáticamente.
+
+`Terraform` · `AWS` · `Amazon S3` · `GitHub Actions` · `IaC`
+
+➡️ Más detalle en [cristinagomez-limon.com](https://cristinagomez-limon.com/)
+
+<br/>
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rosten1805&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF9900&icon_color=FF9900&text_color=FFFFFF&count_private=true" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosten1805&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF9900&text_color=FFFFFF" alt="Top languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rosten1805&hide_border=true&background=0D1117&ring=FF9900&fire=FF9900&currStreakLabel=FF9900" alt="GitHub streak"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rosten1805&theme=onedark&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub trophies"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💬 Hablemos
+
+<a href="https://cristinagomez-limon.com/#contacto" target="_blank"><img src="https://img.shields.io/badge/Contáctame-FF9900?style=for-the-badge&labelColor=0D1117&color=FF9900" alt="Contacto"/></a>
+<a href="https://www.linkedin.com/in/cristina-gomez-limon/" target="_blank"><img src="https://img.shields.io/badge/Conectemos_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Rosten1805&color=FF9900&style=for-the-badge&label=Visitas" alt="Visitor count"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,100:0F2027&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
