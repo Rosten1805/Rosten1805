@@ -1,3 +1,4 @@
+<img width="2172" height="724" alt="Banner profesional de Cloud Engineer en AWS" src="https://github.com/user-attachments/assets/3642efaf-9764-451c-8641-2494211dd953" />
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:FF9900&height=250&section=header&text=Cristina%20Ca%C3%B1adas%20G%C3%B3mez-Lim%C3%B3n&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Cloud%20Engineer%20%C2%B7%20AWS%20%26%20DevOps&descAlignY=55&descSize=18&descColor=FF9900" width="100%" alt="banner"/>
