@@ -26,7 +26,6 @@ Soy **Cloud Engineer** especializada en **AWS** y **DevOps**: diseño, automatiz
 - 📦 Contenedores: **Docker**, Docker Compose y fundamentos de **Kubernetes**
 - 📊 Observabilidad con CloudWatch, Prometheus, Grafana y Loki
 - 🔐 Seguridad por defecto: mínimo privilegio y gestión de secretos
-- 🚀 Disponible para nuevas oportunidades
 
 <br/>
 
