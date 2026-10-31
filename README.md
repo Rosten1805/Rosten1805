@@ -47,6 +47,8 @@ Soy **Cloud Engineer** especializada en **AWS** y **DevOps**: diseño, automatiz
 
 ## 📈 GitHub Stats
 
+<div align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rosten1805&hide_border=true&background=0D1117&ring=FF9900&fire=FF9900&currStreakLabel=FF9900&sideLabels=FF9900&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9F9F9F&excludeDaysLabels=FF9900" alt="GitHub streak"/>
 
 <br/>
