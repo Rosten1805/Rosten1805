@@ -1,15 +1,12 @@
 <img width="2172" height="724" alt="Banner profesional de Cloud Engineer en AWS" src="https://github.com/user-attachments/assets/3642efaf-9764-451c-8641-2494211dd953" />
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:FF9900&height=250&section=header&text=Cristina%20Ca%C3%B1adas%20G%C3%B3mez-Lim%C3%B3n&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Cloud%20Engineer%20%C2%B7%20AWS%20%26%20DevOps&descAlignY=55&descSize=18&descColor=FF9900" width="100%" alt="banner"/>
-
 <br/>
 
 <a href="https://cristinagomez-limon.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-cristinagomez--limon.com-FF9900?style=for-the-badge&labelColor=0D1117" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/cristina-gomez-limon/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <img src="https://img.shields.io/badge/📍_Alicante,_España-0D1117?style=for-the-badge&labelColor=FF9900&color=0D1117" alt="Location"/>
 
-<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF9900&center=true&vCenter=true&width=720&lines=Infraestructura+cloud+fiable+y+automatizada.;Arquitectura+AWS+%E2%80%A2+Terraform+%E2%80%A2+CI%2FCD;Despliegues+automatizados%2C+sin+downtime." alt="Typing SVG"/>
 
